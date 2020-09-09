@@ -120,3 +120,11 @@ sudo usermod -aG docker your-user
 ```
 
 ![](https://i.imgur.com/5urTX2e.png)
+
+
+
+##  另一種安裝方式
+
+使用script 自動安裝
+
+https://get.docker.com/
